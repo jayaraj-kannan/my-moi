@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- ==================== 1. SOFT BASE SHADOW ==================== -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M26,75.5 C26,79.5 36,81 54,81 C72,81 82,79.5 82,75.5 Z" />
+
+    <!-- ==================== 2. THE MOI GIFT CHEST ==================== -->
+    <!-- Base Box (Pristine Cream Ivory Color for traditional registry ledger look) -->
+    <path
+        android:fillColor="#FCF9F2"
+        android:pathData="M28,45 C28,45 28,72 28,72 C28,74.5 30,76.5 32.5,76.5 L75.5,76.5 C78,76.5 80,74.5 80,72 L80,45 Z" />
+
+    <!-- Box Bevel Left-Shadow Side (Modern 3D feeling via soft overlay) -->
+    <path
+        android:fillColor="#0D000000"
+        android:pathData="M28,45 L54,45 L54,76.5 L32.5,76.5 C30,76.5 28,74.5 28,72 Z" />
+
+    <!-- Pure Golden Bottom Base Trim (Luxury gold border) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M28,70 L80,70 L80,72.5 C80,75 78,76.5 75.5,76.5 L32.5,76.5 C30,76.5 28,75 28,72.5 Z" />
+
+    <!-- ==================== 3. GOLDEN LID & PRESTIGE BOW ==================== -->
+    <!-- Gift Lid (Slightly extending over edges for realism) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M25,38.5 C25,37 26.5,36 28,36 L80,36 C81.5,31.5 83,37 83,38.5 L83,45 L25,45 Z" />
+
+    <!-- Lid Shadow Bevel -->
+    <path
+        android:fillColor="#08000000"
+        android:pathData="M25,38.5 L54,38.5 L54,45 L25,45 Z" />
+
+    <!-- Vertical wrapping ribbon (Centered) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M51,45 h6 v25 h-6 z" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M54,45 h3 v25 h-3 z" />
+
+    <!-- Lid vertical ribbon segment -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M51,36 h6 v9 h-6 z" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M54,36 h3 v9 h-3 z" />
+
+    <!-- Elegant high-contrast gold bows on top -->
+    <!-- Left Bow Loop -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,36 C44,28 32,30 35,36 C37,40 48,38 54,36 Z" />
+    <!-- Right Bow Loop -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,36 C64,28 76,30 73,36 C71,40 60,38 54,36 Z" />
+    <!-- Bow Center Ring -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M51.5,34.5 a2.5,2.5 0 1,1 5,0 a2.5,2.5 0 1,1 -5,0" />
+
+
+    <!-- ==================== 4. FLOATING INDIAN RUPEE (₹) GOLD COIN ==================== -->
+    <!-- Elegant Coin Cast Shadow -->
+    <path
+        android:fillColor="#3A000000"
+        android:pathData="M54,69 A15,15 0 1,0 84,69 A15,15 0 1,0 54,69" />
+
+    <!-- Main Outer Coin (Vibrant Solid Gold Core) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M52,65 A14,14 0 1,0 80,65 A14,14 0 1,0 52,65" />
+
+    <!-- Inset Coin Face (Glossy Light Gold) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,65 A12,12 0 1,0 78,65 A12,12 0 1,0 54,65" />
+
+    <!-- Golden Coin Border Bevel Detail -->
+    <path
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="0.8"
+        android:fillColor="#00000000"
+        android:pathData="M55,65 A11,11 0 1,0 77,65 A11,11 0 1,0 55,65" />
+
+    <!-- ==================== 5. INDIAN RUPEE SYMBOL (₹) ON COIN ==================== -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M61,59 h10 v1.5 h-10 z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M61,61.8 h8.5 v1.5 h-8.5 z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M63.5,59 v11 h1.8 v-4.8 h1.2 c1.8,0 3.0,-1 3.0,-2.6 c0,-1.6 -1.2,-2.1 -3.0,-2.1 h-1.2 v-1.5 z M65.3,61.8 h1.2 c0.8,0 1.4,0.3 1.4,1.1 c0,0.8 -0.6,1.1 -1.4,1.1 h-1.2 z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M65.3,64.8 L68.8,70 h2.0 L67.1,64.8 z" />
+
+</vector>

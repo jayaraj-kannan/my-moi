@@ -1,0 +1,6 @@
+{
+  "name": "Moi",
+  "description": "Moi tracks gift-giving traditions. Log gifts and monetary contributions made or received during family events, import CSV histories with intuitive mapping, and search records cleanly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
