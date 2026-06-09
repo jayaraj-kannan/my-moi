@@ -9,14 +9,13 @@ Moi tracks gift-giving traditions. Log gifts and monetary contributions made or 
 ## Screenshots
 
 <div align="center">
-  <!-- Replace these placeholder filenames with your actual screenshot images -->
-  <img src="screenshots/screenshot1.png" width="250" alt="Screenshot 1" style="margin: 10px;">
-  <img src="screenshots/screenshot2.png" width="250" alt="Screenshot 2" style="margin: 10px;">
-  <img src="screenshots/screenshot3.png" width="250" alt="Screenshot 3" style="margin: 10px;">
-  <img src="screenshots/screenshot4.png" width="250" alt="Screenshot 4" style="margin: 10px;">
-  <img src="screenshots/screenshot5.png" width="250" alt="Screenshot 5" style="margin: 10px;">
-  <img src="screenshots/screenshot6.png" width="250" alt="Screenshot 6" style="margin: 10px;">
-  <img src="screenshots/screenshot7.png" width="250" alt="Screenshot 7" style="margin: 10px;">
+  <img src="screenshots/1.jpg" width="250" alt="Screenshot 1" style="margin: 10px;">
+  <img src="screenshots/2.jpg" width="250" alt="Screenshot 2" style="margin: 10px;">
+  <img src="screenshots/3.jpg" width="250" alt="Screenshot 3" style="margin: 10px;">
+  <img src="screenshots/4.jpg" width="250" alt="Screenshot 4" style="margin: 10px;">
+  <img src="screenshots/5.jpg" width="250" alt="Screenshot 5" style="margin: 10px;">
+  <img src="screenshots/6.jpg" width="250" alt="Screenshot 6" style="margin: 10px;">
+  <img src="screenshots/7.jpg" width="250" alt="Screenshot 7" style="margin: 10px;">
 </div>
 
 ## Prerequisites
