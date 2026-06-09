@@ -55,3 +55,7 @@ Follow these steps to clone the repository and build the app locally:
 
 Because this is a standard Gradle-based Android project, you can open and edit this codebase using **any IDE or text editor**. 
 If you are using an IDE like VS Code or IntelliJ IDEA, simply open the `my-moi` directory. Ensure you have the necessary Kotlin and Android extensions/plugins installed for the best experience.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
